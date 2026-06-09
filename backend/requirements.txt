@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+nltk
+scikit-learn
+vaderSentiment
+pydantic
+sqlalchemy
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+cors
